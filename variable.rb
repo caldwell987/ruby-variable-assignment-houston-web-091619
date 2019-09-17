@@ -3,3 +3,4 @@
 def greeting
   string = "Hello World"
 end
+return greeting
